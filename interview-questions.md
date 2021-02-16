@@ -87,9 +87,9 @@ The Terminal provides an efficient interface to access the true power of a compu
 
 Research and define the following terms to the best of your ability.
 
-- Jest
-- Test Driven Development
-- Classes
-- React
-- React State
-- CRUD
+- Jest is a framework maintained by facebook to deal with simplicity and support for larger web applications. it is used as a test runner
+- Test Driven a trdt runner with integrates the coding testing and design in one acitivy
+- Classes template to create objects that works on built in prototypes with some syntax
+- React front end javascript library for building a user interface
+- React State component that has a built in state object it stores values that belong to a component 
+- CRUD CREATE READ UPDATE DELETE
